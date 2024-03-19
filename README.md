@@ -10,7 +10,7 @@ A statc web page of Restaurant brochure using HTML CSS.
 - I learned how to use HTML and CSS to create a beutiful website.
 - I learned about the ways of positioning elements in the HTML and CSS.
 ## Live Project
-https://assignment-1-blue-nine.vercel.app/
+[https://assignment-1-blue-nine.vercel.app/](https://html-css-project-2-omega.vercel.app/)
 
 ## Time taken to finish this project
 - 4 hour to complete it.
